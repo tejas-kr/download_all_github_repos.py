@@ -10,7 +10,7 @@ password = getpass.getpass()
 
 g = gb(user_name, password)
 
-g = gb("0d463c1f7c347c8e1557432ce3e87358ad530d5d")
+g = gb("Auth_token_here")
 
 def download_repo(repo):
 	print(repo.name)
